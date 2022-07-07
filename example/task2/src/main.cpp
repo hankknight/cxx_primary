@@ -1,0 +1,11 @@
+#include <iostream>
+
+#include "package/foo.h"
+
+using namespace std;
+
+int main(int argc, char *argv[]) {
+    // finish your code
+
+    return 0;
+}
