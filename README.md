@@ -46,3 +46,5 @@
 可参考[GoogleTest User`s Guide](https://google.github.io/googletest/)官方文档。
 
 **请根据提供的示例自行编写CMakeLists.txt文件，所有编译请在build目录中完成。**
+
+[![Security Status](https://s.murphysec.com/badge/hankknight/cxx_primary.svg)](https://www.murphysec.com/p/hankknight/cxx_primary)
